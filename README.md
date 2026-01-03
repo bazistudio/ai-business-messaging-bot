@@ -54,7 +54,7 @@ ai-customer-support-bot/
 ## ⚙️ Setup & Installation
 
 ```bash
-git clone https://github.com/yourusername/ai-customer-support-bot.git
+git clone https://github.com/bazistudio/ai-business-messaging-bot.git
 cd ai-customer-support-bot
 
 python -m venv venv
